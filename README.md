@@ -1,5 +1,5 @@
 <h2 align="left">Hi Universe 👋! I'm Fabiha Tasnim Trisha.
-  passionate about Software Quality Testing & Information System.</h2>
+  passionate about Software Quality Testing & Database Managment System.</h2>
 
 ###
 
